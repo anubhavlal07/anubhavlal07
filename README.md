@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **React, Full Stack Development, Python**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://anubhavlal07.github.io/)
+- 👨‍💻 All of my projects are available [here](https://anubhavlal07.github.io/)
 
-- 📫 How to reach me **anubhavlal.15@gmail.com**
+- 📫 How to reach me at **anubhavlal.15@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1c_MV31aLd69Ny6RPwBdE06v-dMZIZ3CP/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1GBDiMluwhig2FJn28S56NVfHi65e-8bo/view?usp=sharing)
 
 - ⚡ Fun fact **I am a Potterhead**
 
