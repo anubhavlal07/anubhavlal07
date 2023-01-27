@@ -3,19 +3,18 @@
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="300" src="https://miro.medium.com/max/800/1*mr7WXw8tgpMhqugKP2WhrA.gif">
 
-- 🌱 I’m currently learning **React, Full Stack Development, Python**
+- 🌱 I’m currently learning **Data Analytics, Full Stack Development, Python**
 
-- 👨‍💻 All of my projects are available [here](https://anubhavlal07.github.io/)
+- 👨‍💻 My recent projects are available **[here](https://anubhavlal07.github.io/)**
 
 - 📫 How to reach me at **anubhavlal.15@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1GBDiMluwhig2FJn28S56NVfHi65e-8bo/view?usp=sharing)
+- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1MvOmZU4Whm_xGHO4eifAXIqDnWQXOagS/view?usp=sharing)**
 
 - ⚡ Fun fact **I am a Potterhead**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/_anu_bhav" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_anu_bhav" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/anubhavl/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Anubhav Lal" height="30" width="40" /></a>
 <a href="https://instagram.com/_anu_bhav" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_anu_bhav" height="30" width="40" /></a>
 </p>
@@ -26,4 +25,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anubhavlal07&show_icons=true&locale=en&layout=compact" alt="anubhavlal07" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anubhavlal07&" alt="anubhavlal07" /></p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=anubhavlal07&label=Profile%20views&color=0e75b6&style=flat-square" alt="anubhavlal07" /> </p>
