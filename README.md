@@ -10,7 +10,7 @@
 
 - 📫 How to reach me at **anubhavlal.15@gmail.com**
 
-- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/19TltXwMdl5nJr33NRjT8uGVcYdOBODha/view)**
+- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1vd9GYtIma1rWSt_mZLn--WOluJ4b4fLP/view)**
 
 - ⚡ Fun fact **I am a Potterhead**
 
